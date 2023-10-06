@@ -2,7 +2,7 @@
 
 Brittany Lassiter
 
-## In this project, I will be implenting various sales and prediction over various stores for their sales for different food items. 
+## In this project, I will be implenting various sales and prediction over various stores for their sales for different food items. We will help the retailer understand the properties of products and outlets that play crucial roles in increasing sales. 
 
   #### As shown below, is a correlation's map, demostrating different highlights of production causing sales to be higher or lower. 
 ![image](https://github.com/brittanymlassiter/Prediction-of-Product-Sales/assets/141593737/24b05895-46db-4c7d-8b2a-2aed63ba071c)
