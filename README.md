@@ -22,5 +22,8 @@ Regression Metrics: Test Data
 - RMSE = 1,117.228
 - R^2 = 0.486
 
+- ### Statement
+- This model is able to predict on an average $1056 off of sales of the project, which will increase productions for better sales within each store.
+
 #### For Further information
 For additioal questions, please contact me at blassiter54@gmail.com
