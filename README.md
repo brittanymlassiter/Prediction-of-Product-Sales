@@ -22,7 +22,15 @@ Regression Metrics: Test Data
 - RMSE = 1,117.228
 - R^2 = 0.486
 
-"C:\Users\blass\OneDrive\Desktop\log importance.png"
+
+![log importance](https://github.com/brittanymlassiter/Prediction-of-Product-Sales/assets/141593737/b3bb6768-4c6a-4a9d-9f1e-e2db2ffff94f)
+
+The top 3 impactfful features are the Outlet_location_type_tier 1, Outlet_location_type_tier 3, and the Outlet_identifier.
+
+![random](https://github.com/brittanymlassiter/Prediction-of-Product-Sales/assets/141593737/6bb8823f-b848-400c-af53-f387c17e192d)
+
+The top 5 most important features are the Item MRP, Item Visibilty, Item Weight, Outlet_Identifier, and Outlet type grocery store.
+
 
 
 
