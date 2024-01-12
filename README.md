@@ -2,7 +2,7 @@
 
 Brittany Lassiter
 
-## Anaylizating various features over numerous stores and how it affects sales for different food items. 
+## Analyzing various features over numerous stores and how it affects sales for different food items. 
 
 ## What the Business wants to know.
 - Our retailers wants to understand the properties of products and outlets that play crucial roles in increasing their sales.
@@ -53,7 +53,9 @@ There are 8523 rows and 7 columns of data collected to help highlight procductio
 
 
  ### Statement
-- This dataset/models is able to predict on an average $1056 off of sales of the project, which will increase productions for better sales within each store.
+- This dataset/models shows the locations with the greatest impact include Outlet_location_type_tier 1, Outlet_location_type_tier 3, and Outlet_identifier.
+
+
 
 #### For Further information
 For additioal questions, please contact me at blassiter54@gmail.com
